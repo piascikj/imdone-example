@@ -6,4 +6,4 @@ Sample Tasks
 ----
 - [Add some directories to this repository](#done:0)
 - [Add some sample tasks to the repository](#doing:0)
-- [Set up the imdone-example repository at github](#done:10)
+- [Set up the imdone-example repository at github](#todo:0)
