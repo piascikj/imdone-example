@@ -5,5 +5,5 @@ This repository is intended to be a sample of how you can use iMDone to manage y
 Sample Tasks
 ----
 - [Add some directories to this repository](#done:10)
-- [Add some sample tasks to the repository](#todo:0)
+- [Add some sample tasks to the repository](#todo:10)
 - [Set up the imdone-example repository at github](#done:0)
