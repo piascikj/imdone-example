@@ -1,2 +1,2 @@
-- [Take out the trash](#todo:0)
-- [Pay the bills](#doing:1)
+- [Take out the trash](#DOING:10)
+- [Pay the bills](#DOING:0)
