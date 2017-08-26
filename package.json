@@ -1,0 +1,24 @@
+{
+  "name": "imdone-example",
+  "version": "1.0.0",
+  "description": "A sample repo for imdone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piascikj/imdone-example.git"
+  },
+  "author": "Jesse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piascikj/imdone-example/issues"
+  },
+  "homepage": "https://github.com/piascikj/imdone-example#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "dotenv": "^4.0.0",
+    "gh-got": "^6.0.0"
+  }
+}
