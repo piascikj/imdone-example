@@ -49,7 +49,7 @@ async.series({
     exec('delete remote branch', 'git push origin --delete imdone-todo-updates', cb)
   },
   resetToBaseVersion: cb => {
-    exec('reset to base version 1.0', 'git reset --hard 6310a3e446539dc3b3bc73ec42696f7830602577', cb)
+    exec('reset to base version 1.1', 'git reset --hard 1.1', cb)
   },
   pushToGitHub: cb => {
     exec('push to github', 'git push -f origin master', cb)
