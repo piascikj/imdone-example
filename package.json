@@ -19,6 +19,7 @@
   "dependencies": {
     "async": "^2.5.0",
     "dotenv": "^4.0.0",
-    "gh-got": "^6.0.0"
+    "gh-got": "^6.0.0",
+    "shelljs": "^0.7.8"
   }
 }
