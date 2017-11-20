@@ -1,0 +1,42 @@
+{
+  "exclude": [
+    "^(node_modules|bower_components|\\.imdone|target|build|dist|logs|flow-typed)[\\/\\\\]?|\\.(git|svn|hg|npmignore)|\\~$|\\.(jpg|png|gif|swp|ttf|otf)$"
+  ],
+  "watcher": true,
+  "keepEmptyPriority": true,
+  "code": {
+    "include_lists": [
+      "TODO",
+      "FIXME",
+      "HACK",
+      "CHANGED",
+      "XXX",
+      "IDEA",
+      "NOTE",
+      "REVIEW"
+    ]
+  },
+  "lists": [
+    {
+      "name": "TODO",
+      "hidden": false
+    },
+    {
+      "name": "FIXME",
+      "hidden": false
+    }
+  ],
+  "marked": {
+    "gfm": true,
+    "tables": true,
+    "breaks": false,
+    "pedantic": false,
+    "smartLists": true,
+    "langPrefix": "language-"
+  },
+  "sync": {
+    "id": "5a132d9a295a89c60ea79a7a",
+    "name": "piascikj/imdone-example",
+    "useImdoneioForPriority": true
+  }
+}
