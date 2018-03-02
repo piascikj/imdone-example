@@ -1,2 +1,2 @@
-- [Take out the trash](#DOING:0)
-- [Pay the bills](#DOING:10)
+- [Take out the trash id:2 gh:899 ic:gh](#DOING:)
+- [Pay the bills id:3 gh:900 ic:gh](#DOING:)
