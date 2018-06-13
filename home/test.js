@@ -2,8 +2,3 @@
 // Jesse Piascik
 // jesse@piascik.net
 // https://github.com/piascikj/imdone-example/issues/1147
-// DOING: a new task +feature +story id:10
-// Jesse Piascik
-// jesse@piascik.net
-// https://github.com/piascikj/imdone-example/issues/1156
-
