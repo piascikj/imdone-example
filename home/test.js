@@ -2,5 +2,5 @@
 // Jesse Piascik
 // jesse@piascik.net
 // https://github.com/piascikj/imdone-example/issues/1147
-// DOING: a new task
+// DOING: a new task +feature
 
