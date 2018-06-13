@@ -6,4 +6,4 @@ Sample Tasks
 ----
 - [Add some directories to this repository id:9 gh:1091](#TODO:)
 - [Add some sample tasks to the repository id:11 gh:1093](#TODO:)
-- [Do something interesting +cool](#DOING:)
+- [Do something interesting](#DOING:)
