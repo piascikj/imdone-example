@@ -2,4 +2,7 @@
 // Jesse Piascik
 // jesse@piascik.net
 // https://github.com/piascikj/imdone-example/issues/1250
-// DOING: A brand new story
+// DOING: A brand new story id:9
+// Jesse Piascik
+// jesse@piascik.net
+// https://github.com/piascikj/imdone-example/issues/1255
