@@ -1,3 +1,5 @@
+[![TODO board](http://localhost:3000/api/1.0/projects/5b9bb87b31a42f82650f636a/badge)](https://imdone.io/app#/board/piascikj/imdone-example)
+
 iMDone example repository
 ====
 This repository is intended to be a sample of how you can use iMDone to manage your project tasks.
