@@ -19,10 +19,6 @@
       "hidden": false
     },
     {
-      "name": "DONE",
-      "hidden": false
-    },
-    {
       "name": "FIXME",
       "hidden": false
     },
@@ -32,6 +28,10 @@
     },
     {
       "name": "DOING",
+      "hidden": false
+    },
+    {
+      "name": "DONE",
       "hidden": false
     }
   ],
